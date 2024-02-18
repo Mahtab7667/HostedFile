@@ -1,1 +1,1 @@
-# The very basic portfolio in html is added
+# The portfolio in html is added
